@@ -13,6 +13,10 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=choigod1023&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choigod1023&layout=compact&theme=tokyonight)
+[![README](https://github-readme-stats.vercel.app/api/pin/?username=CirclesApp&repo=circles&theme=vue-dark)](https://github.com/](https://github.com/choigod1023/livescore))
+[![README](https://github-readme-stats.vercel.app/api/pin/?username=CirclesApp&repo=circles&theme=vue-dark)](https://github.com/](https://github.com/choigod1023/electron_mirror_webapp))
+[![README](https://github-readme-stats.vercel.app/api/pin/?username=CirclesApp&repo=circles&theme=vue-dark)](https://github.com/choigod1023/wheelsafe)))
+
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/choigod1023)
