@@ -21,5 +21,6 @@
 
 
 ## 🌐 Connect with Me
+- [Instagram](https://www.instagram.com/ju._.nyac/)
 - [LinkedIn](https://linkedin.com/in/choigod1023)
 - [Portfolio]()
