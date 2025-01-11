@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!
 
 ## About Me
-👩‍💻 I'm Junhyeok Jang(AKA choigod1023), a passionate developer from [FRONTEND].  
+👩‍💻 I'm Junhyeok Jang(AKA choigod1023), a passionate developer from FRONTEND.  
 🔭 I'm currently working on [Your Project].
 
 ## 🔧 Technologies I Use
