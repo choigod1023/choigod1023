@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub Profile!
 
-<!--
-**choigod1023/choigod1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👩‍💻 I'm [Your Name], a passionate developer from [Location].  
+🔭 I'm currently working on [Your Project].
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Use
+- 🖥️ **Frontend**: React, Vue.js
+- ⚙️ **Backend**: Node.js, Django
+- ☁️ **Cloud**: AWS, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Portfolio](https://yourwebsite.com)
