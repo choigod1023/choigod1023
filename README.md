@@ -14,10 +14,10 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=choigod1023&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choigod1023&layout=compact&theme=tokyonight)
 
-###📌Pinned
-[![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=livescore&theme=tokyonight)](https://github.com/](https://github.com/choigod1023/livescore))
-[![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=electron_mirror_webapp&theme=tokyonight)](https://github.com/](https://github.com/choigod1023/electron_mirror_webapp))
-[![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=wheelsafe&theme=tokyonight)](https://github.com/choigod1023/wheelsafe)
+## 📌 Pinned
+![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=livescore&theme=tokyonight)](https://github.com/](https://github.com/choigod1023/livescore))
+![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=electron_mirror_webapp&theme=tokyonight)](https://github.com/](https://github.com/choigod1023/electron_mirror_webapp))
+![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=wheelsafe&theme=tokyonight)](https://github.com/choigod1023/wheelsafe)
 
 
 ## 🌐 Connect with Me
