@@ -22,5 +22,5 @@
 
 ## 🌐 Connect with Me
 - [Instagram](https://www.instagram.com/ju._.nyac/)
-- [LinkedIn](www.linkedin.com/in/준혁-장-497a48345)
+- [LinkedIn](https://www.linkedin.com/in/준혁-장-497a48345)
 - [Portfolio]()
