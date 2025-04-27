@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choigod1023&layout=compact&theme=tokyonight)
 
 ## 📌 Pinned
-[![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=livescore&theme=tokyonight)](https://github.com/choigod1023/livescore)
+[![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=hanasi&theme=tokyonight)](https://github.com/choigod1023/Hanasi))
 [![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=electron_mirror_webapp&theme=tokyonight)](https://github.com/choigod1023/electron_mirror_webapp)
 [![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=wheelsafe&theme=tokyonight)](https://github.com/choigod1023/wheelsafe)
 [![README](https://github-readme-stats.vercel.app/api/pin/?username=choigod1023&repo=Socket_Chat&theme=tokyonight)](https://github.com/choigod1023/Socket_Chat)
