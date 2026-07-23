@@ -2,7 +2,7 @@
 
 # Hi, I'm Junhyeok Jang 👋
 
-**Web Full-Stack Developer** — I build prediction systems, AI-powered web services, and security tools, then ship them as products people can actually use.
+**Web Full-Stack Developer & Coding Instructor** — I build prediction systems, AI-powered web services, and security tools, then ship them as products people can actually use — and I teach the next generation of developers.
 
 [![Email](https://img.shields.io/badge/Email-choigod10234%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:choigod10234@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/준혁-장-497a48345)
@@ -20,6 +20,17 @@
 | 🥇 **Excellence Award (최우수상)** — ROK Air Force Startup Competition | [VIGILIAN](https://vigilian.vercel.app/) |
 | 🎖️ **Minister of National Defense Award (국방부 장관상)** — Defense Startup Competition | [VIGILIAN](https://vigilian.vercel.app/) |
 | 🚀 **Ranked 28th** — K-Startup Competition | [VIGILIAN](https://vigilian.vercel.app/) |
+| 🥇 **Gold Prize (금상)** — Sunrin Internet HS Digital Content Competition (선린인터넷고 디지털콘텐츠경연대회, 2019) | — |
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| **Coding Instructor** — Web · Game · AI/AX · Python development | **CIT Coding Academy** (CIT 코딩학원) | Feb 2026 – Present |
+| **Security & Web Track Lead** (보안·웹 트랙장) | **Dongguk University — Farm System** | Mar 2026 – Present |
+| **Frontend Developer** — Website Management Team | **Dongguk University — CAPS** (Programming Club) | Mar 2023 – Present |
 
 ---
 
