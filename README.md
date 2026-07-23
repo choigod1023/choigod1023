@@ -142,9 +142,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choigod1023&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choigod1023&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choigod1023&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=choigod1023&theme=tokyonight&hide_border=true)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choigod1023&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=choigod1023&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=choigod1023&theme=tokyonight&utcOffset=9)
 
 </div>
