@@ -20,7 +20,7 @@
 | 🥇 **Excellence Award (최우수상)** — ROK Air Force Startup Competition | [VIGILIAN](https://vigilian.vercel.app/) |
 | 🎖️ **Minister of National Defense Award (국방부 장관상)** — Defense Startup Competition | [VIGILIAN](https://vigilian.vercel.app/) |
 | 🚀 **Ranked 28th** — K-Startup Competition | [VIGILIAN](https://vigilian.vercel.app/) |
-| 🥇 **Gold Prize (금상)** — Sunrin Internet HS Digital Content Competition (선린인터넷고 디지털콘텐츠경연대회, 2019) | — |
+| 🥇 **Gold Prize (금상)** — Sunrin Internet HS Digital Content Competition (선린인터넷고 디지털콘텐츠경연대회, 2019) | [onoffmix-crawler](https://github.com/choigod1023/sunrinhs-digitalcontest-onoffmix-crawling) |
 
 ---
 
