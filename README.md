@@ -92,6 +92,55 @@
 
 ---
 
+## 🤝 Team & Organization Projects
+
+> Contribution is measured by commit-author email, excluding bot/automation commits. 🔒 = private repo.
+
+### 🏥 [DGU-TeamLex](https://github.com/DGU-TeamLex) — Medical-supply inventory management for public health institutions
+
+| Repo | What it does | My contribution |
+|---|---|---|
+| [backend](https://github.com/DGU-TeamLex/backend) | FastAPI (REST + Strawberry GraphQL) on Vercel serverless + Neon Postgres — JWT/RBAC auth, XLSX stock intake, safety-stock / ROP / reorder recommendations | **100%** · 44 commits · 1 dev |
+| [frontend](https://github.com/DGU-TeamLex/frontend) | Next.js 14 App Router + Tailwind — role-based (central / institution) inventory dashboards with a hand-built SVG stock-depletion chart | **100%** · 26 commits · 1 dev |
+| [ai](https://github.com/DGU-TeamLex/ai) | Demand-forecasting models (LightGBM / XGBoost), news & raw-material risk scoring, inventory-policy computation, FastAPI serving | **100%** · 1 commit · 1 dev |
+| [spec-bot](https://github.com/DGU-TeamLex/spec-bot) | Detects spec-document emails → drafts code with Claude → opens draft PRs on FE/BE automatically (GitHub Actions cron) | **100%** · 2 commits · 1 dev |
+| wep-stock-item-material-pipeline 🔒 | Rule-based pipeline tagging 101,546 medical items with a 3-axis meta-code (raw material → supply-chain risk → demand trigger) | **57.1%** · 4/7 commits · 2 devs |
+| wep-stock-data-normalization 🔒 | Meta-code normalization + backtest dataset builder | **100%** · 7 commits · 1 dev |
+
+### 🔁 [hanium-reaction](https://github.com/hanium-reaction) — *Re:Action*, an execution-recovery coach (Hanium project)
+
+| Repo | What it does | My contribution |
+|---|---|---|
+| [reaction-frontend](https://github.com/hanium-reaction/reaction-frontend) | React 18 + TS + Vite PWA — AI interview onboarding → weekly plan → daily action cards → failure tagging → recovery & replan | **90.9%** · 130/143 commits · 3 devs |
+| [reaction-backend](https://github.com/hanium-reaction/reaction-backend) | Backend (partial contribution) | 2.2% · 4/184 commits · 6 devs |
+
+### 🎓 [CAPS-DGU](https://github.com/CAPS-DGU) — Dongguk University programming club
+
+| Repo | What it does | My contribution |
+|---|---|---|
+| [caps-client](https://github.com/CAPS-DGU/caps-client) | CAPS website client | **42.7%** · 132/309 commits · 7 devs |
+| [capsv4](https://github.com/CAPS-DGU/capsv4) | CAPS website renewal | 14.9% · 32/215 commits · 7 devs |
+
+### 🌱 [DguFarmSystem](https://github.com/DguFarmSystem) — Dongguk University Farm System
+
+| Repo | What it does | My contribution |
+|---|---|---|
+| coffeorder 🔒 | Coffee ordering app | **47.5%** · 77/162 commits · 4 devs |
+
+### 📱 [jangbogo](https://github.com/jangbogo) — 2018 AppJam
+
+| Repo | What it does | My contribution |
+|---|---|---|
+| [sleepjomusa-arduino](https://github.com/jangbogo/sleepjomusa-arduino) | Arduino firmware — Bluetooth-controlled RGB LED brightness + DHT11 temperature/humidity sensing | **100%** · 2 commits · 1 dev |
+
+---
+
+## 🤖 AI-Assisted Development
+
+I build with **Claude Code** and **Cursor**. Every repository's README carries a `기여도 & 개발 환경` section stating its contribution split and which AI tooling was actually used — verified from commit trailers and in-repo agent configs rather than self-reported.
+
+---
+
 ## 📜 Certifications
 
 | Certification | Issued |
