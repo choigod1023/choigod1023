@@ -30,7 +30,7 @@
 
 | Role | Organization | Period |
 |---|---|---|
-| **Coding Instructor** — Web · Game · AI/AX · Python development | **CIT Coding Academy** (CIT 코딩학원) | Feb 2026 – Present |
+| **Coding Instructor** — Web · Game · AI/AX · Python development | **CIT Coding Academy** (CIT 코딩학원) — Daechi-dong, Seoul | Feb 2026 – Present |
 | **Security & Web Track Lead** (보안·웹 트랙장) | **Dongguk University — Farm System** | Mar 2026 – Present |
 | **Frontend Developer** — Website Management Team | **Dongguk University — CAPS** (Programming Club) | Mar 2023 – Present |
 
@@ -43,7 +43,9 @@
 - 🏫 **Sunrin Internet High School** — Dept. of Information Security (Mar 2018 – Feb 2021)
 - 👨‍🏫 Led **Python & Web study groups** at Dongguk University's CAPS programming club — authored and taught weekly course materials (Summer 2023 Python, Fall 2023 Web Basics, Winter 2024 Applied Python)
 - ⚽ I build **prediction systems for sports and markets**, then ship them as **web dashboards**
-- 🔭 Currently working on: scoring my **2026 World Cup prediction system** against the market — closing odds for all 72 group-stage matches are collected, and the Brier-score verdict (my model vs. the betting market) is the next step
+- 🔭 Currently working on: [**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) — measuring whether Korea's Proto fixed-odds market is efficient (bookmaker margin, information lag, devig calibration), with scheduled data collection and success criteria pre-registered before the data is scored
+- 🧩 Also active: the *Re:Action* frontend (Hanium), demand-forecasting AI for TeamLex, and the summer security curriculum I teach at Dongguk's Farm System
+- 📋 Carried over: my **2026 World Cup** model-vs-market benchmark — closing odds for all 72 group-stage matches are collected; the Brier-score verdict is still pending
 
 ---
 
@@ -61,6 +63,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) | Is Korea's Proto fixed-odds market efficient? Measures bookmaker margin, information lag, and devig calibration — criteria pre-registered in `DESIGN.md` | `Python` |
 | [**wc2026-predictor**](https://github.com/choigod1023/wc2026-predictor) | 2026 World Cup prediction system — validates an Elo + logistic regression model's accuracy against betting-market odds | `Python` |
 | [**wc2026-web**](https://github.com/choigod1023/wc2026-web) | Web dashboard for the World Cup predictor: *my model vs. the betting market* | `TypeScript` `Next.js` |
 | [**MLB-Prophet**](https://github.com/choigod1023/MLB-Prophet) | MLB game prediction web dashboard | `Python` |
@@ -129,7 +132,7 @@
 |---|---|---|
 | coffeorder 🔒 | Coffee ordering app | **47.5%** · 77/162 commits · 4 devs |
 
-### 📱 [jangbogo](https://github.com/jangbogo) — 2018 AppJam
+### 📱 [jangbogo](https://github.com/jangbogo) — 2018 AppJam (hackathon hosted by SK planet)
 
 | Repo | What it does | My contribution |
 |---|---|---|
