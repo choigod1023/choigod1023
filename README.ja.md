@@ -4,6 +4,8 @@
 
 **Web フルスタックエンジニア & プログラミング講師** — 予測システム、AI を活用した Web サービス、セキュリティツールを開発し、実際に使えるプロダクトとして公開しています。あわせて次世代の開発者を育てています。
 
+🌏 **韓国・ソウル**を拠点に活動 — 以下の学校・企業・大会はいずれも韓国国内のものです
+
 [![Email](https://img.shields.io/badge/Email-choigod10234%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:choigod10234@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/준혁-장-497a48345)
 [![Instagram](https://img.shields.io/badge/Instagram-ju.__.nyac-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ju._.nyac/)
@@ -17,30 +19,32 @@
 
 ## 🏆 受賞
 
-| 受賞 | プロジェクト |
-|---|---|
-| 🥇 **最優秀賞** — 韓国空軍スタートアップコンペティション | [VIGILIAN](https://vigilian.vercel.app/) |
-| 🎖️ **国防部長官賞** — 国防スタートアップコンペティション | [VIGILIAN](https://vigilian.vercel.app/) |
-| 🚀 **28位** — K-Startup コンペティション | [VIGILIAN](https://vigilian.vercel.app/) |
-| 🥇 **金賞** — 善隣インターネット高校 デジタルコンテンツコンテスト（2019） | [onoffmix-crawler](https://github.com/choigod1023/sunrinhs-digitalcontest-onoffmix-crawling) |
+> 受賞はすべて韓国国内の大会によるものです。
+
+| 受賞 | 主催・開催地 | プロジェクト |
+|---|---|---|
+| 🥇 **最優秀賞**（최우수상） — 空軍スタートアップコンペティション | 韓国空軍 | [VIGILIAN](https://vigilian.vercel.app/) |
+| 🎖️ **国防部長官賞**（국방부 장관상） — 国防スタートアップコンペティション | 韓国国防部（日本の防衛省に相当） | [VIGILIAN](https://vigilian.vercel.app/) |
+| 🚀 **28位** — K-Startup コンペティション | 韓国中小ベンチャー企業部による国家規模の起業支援プログラム | [VIGILIAN](https://vigilian.vercel.app/) |
+| 🥇 **金賞**（금상） — デジタルコンテンツコンテスト（2019） | 善隣インターネット高校（韓国・ソウル） | [onoffmix-crawler](https://github.com/choigod1023/sunrinhs-digitalcontest-onoffmix-crawling) |
 
 ---
 
 ## 💼 経歴
 
-| 役割 | 所属 | 期間 |
-|---|---|---|
-| **プログラミング講師** — Web・ゲーム・AI/AX・Python 開発 | **CIT コーディング学院** | 2026年2月 – 現在 |
-| **セキュリティ・Web トラックリード** | **東国大学校 Farm System** | 2026年3月 – 現在 |
-| **フロントエンドエンジニア** — Web サイト運営チーム | **東国大学校 CAPS**（プログラミングサークル） | 2023年3月 – 現在 |
+| 役割 | 所属 | 所在地 | 期間 |
+|---|---|---|---|
+| **プログラミング講師** — Web・ゲーム・AI/AX・Python 開発 | **CIT コーディング学院**（CIT 코딩학원、韓国の民間プログラミング教室） | 韓国 | 2026年2月 – 現在 |
+| **セキュリティ・Web トラックリード** | **東国大学校 Farm System**（学内の開発者育成プログラム） | 韓国・ソウル | 2026年3月 – 現在 |
+| **フロントエンドエンジニア** — Web サイト運営チーム | **東国大学校 CAPS**（学内プログラミングサークル） | 韓国・ソウル | 2023年3月 – 現在 |
 
 ---
 
 ## 🙋 自己紹介
 
-- 🎓 **東国大学校** — AI 融合学部 コンピュータ工学専攻（2024年3月 – 現在）
+- 🎓 **東国大学校**（동국대학교 / Dongguk University、韓国・ソウル） — AI 融合学部 コンピュータ工学専攻（2024年3月 – 現在）
   - 電子電気工学部（2023年3月 – 2024年2月）
-- 🏫 **善隣インターネット高校** — 情報セキュリティ科（2018年3月 – 2021年2月）
+- 🏫 **善隣インターネット高校**（선린인터넷고등학교、韓国・ソウル） — 情報セキュリティ科（2018年3月 – 2021年2月）。IT 専門課程を持つ工業系高校です
 - 👨‍🏫 東国大学校 CAPS で **Python・Web の勉強会**を主催し、週ごとの教材を自作して講義（2023年夏 Python、2023年秋 Web 基礎、2024年冬 Python 応用）
 - ⚽ **スポーツ・マーケットの予測システム**を作り、**Web ダッシュボード**として公開しています
 - 🔭 現在の取り組み：**2026 ワールドカップ予測システム**の採点 — グループステージ 72 試合のクロージングオッズを収集済みで、次は自作モデルとブックメーカー市場の Brier Score 比較による判定です
@@ -81,7 +85,7 @@
 | プロジェクト | 概要 | 技術 |
 |---|---|---|
 | [**adventure_2026**](https://github.com/choigod1023/adventure_2026) | Arduino UNO R4 WiFi による歩きスマホ（スモンビ）安全警告デバイス — バス/地下鉄/C-ITS API + RCWL/SR505 センサー、4 つの動作モード | `C++` `Arduino` |
-| [**wheelsafe**](https://github.com/choigod1023/wheelsafe) | 2023 年 キャップストーンデザイン バリューアップ大会プロジェクト | `HTML` `Node.js` |
+| [**wheelsafe**](https://github.com/choigod1023/wheelsafe) | 2023 年 東国大学校 キャップストーンデザイン バリューアップ大会（韓国）の出展プロジェクト | `HTML` `Node.js` |
 | [**electron_mirror_webapp**](https://github.com/choigod1023/electron_mirror_webapp) | Raspberry Pi 上で動作するスマートミラー UI | `JavaScript` `Electron` |
 
 ### ⚙️ Bot & 自動化
@@ -96,9 +100,9 @@
 
 ## 🤝 チーム & 組織プロジェクト
 
-> 貢献度はコミット作成者のメールアドレス基準で、Bot・自動化のコミットは除外しています。🔒 = プライベートリポジトリ。
+> 貢献度はコミット作成者のメールアドレス基準で、Bot・自動化のコミットは除外しています。🔒 = プライベートリポジトリ。いずれも韓国国内の大学・産学連携プロジェクトです。
 
-### 🏥 [DGU-TeamLex](https://github.com/DGU-TeamLex) — 公的保健機関向け医療物資の在庫管理
+### 🏥 [DGU-TeamLex](https://github.com/DGU-TeamLex) — 韓国の公的保健機関向け医療物資の在庫管理（東国大学校のチーム）
 
 | リポジトリ | 内容 | 貢献度 |
 |---|---|---|
@@ -109,27 +113,29 @@
 | wep-stock-item-material-pipeline 🔒 | 医療用品 101,546 件に 3 軸メタコード（原材料 → サプライチェーンリスク → 需要トリガー）を付与するルールベースのパイプライン | **57.1%** · 4/7 コミット · 開発者 2 名 |
 | wep-stock-data-normalization 🔒 | メタコードの正規化 + バックテスト用データセットビルダー | **100%** · 7 コミット · 開発者 1 名 |
 
-### 🔁 [hanium-reaction](https://github.com/hanium-reaction) — *Re:Action*、実行力リカバリーコーチ（Hanium プロジェクト）
+### 🔁 [hanium-reaction](https://github.com/hanium-reaction) — *Re:Action*、実行力リカバリーコーチ（Hanium / 한이음 プロジェクト）
+
+> Hanium（한이음）は韓国科学技術情報通信部が後援する産学連携 ICT プロジェクトです。
 
 | リポジトリ | 内容 | 貢献度 |
 |---|---|---|
 | [reaction-frontend](https://github.com/hanium-reaction/reaction-frontend) | React 18 + TS + Vite の PWA — AI 面談オンボーディング → 週次プラン → デイリーアクションカード → 失敗のタグ付け → リカバリーと再計画 | **90.9%** · 130/143 コミット · 開発者 3 名 |
 | [reaction-backend](https://github.com/hanium-reaction/reaction-backend) | バックエンド（一部貢献） | 2.2% · 4/184 コミット · 開発者 6 名 |
 
-### 🎓 [CAPS-DGU](https://github.com/CAPS-DGU) — 東国大学校 プログラミングサークル
+### 🎓 [CAPS-DGU](https://github.com/CAPS-DGU) — 東国大学校（韓国・ソウル）のプログラミングサークル
 
 | リポジトリ | 内容 | 貢献度 |
 |---|---|---|
 | [caps-client](https://github.com/CAPS-DGU/caps-client) | CAPS 公式サイトのクライアント | **42.7%** · 132/309 コミット · 開発者 7 名 |
 | [capsv4](https://github.com/CAPS-DGU/capsv4) | CAPS 公式サイトのリニューアル | 14.9% · 32/215 コミット · 開発者 7 名 |
 
-### 🌱 [DguFarmSystem](https://github.com/DguFarmSystem) — 東国大学校 Farm System
+### 🌱 [DguFarmSystem](https://github.com/DguFarmSystem) — 東国大学校（韓国・ソウル）の開発者育成プログラム Farm System
 
 | リポジトリ | 内容 | 貢献度 |
 |---|---|---|
 | coffeorder 🔒 | コーヒー注文アプリ | **47.5%** · 77/162 コミット · 開発者 4 名 |
 
-### 📱 [jangbogo](https://github.com/jangbogo) — 2018 AppJam
+### 📱 [jangbogo](https://github.com/jangbogo) — 2018 AppJam（韓国のハッカソン、高校在学時のチーム）
 
 | リポジトリ | 内容 | 貢献度 |
 |---|---|---|
@@ -144,6 +150,8 @@
 ---
 
 ## 📜 資格
+
+> いずれも韓国の国家資格・公認資格です。
 
 | 資格 | 取得 |
 |---|---|
