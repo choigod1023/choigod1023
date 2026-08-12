@@ -9,6 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-ju.__.nyac-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ju._.nyac/)
 [![GitHub followers](https://img.shields.io/github/followers/choigod1023?label=Followers&style=flat-square&logo=github)](https://github.com/choigod1023)
 
+**English** · [한국어](README.ko.md) · [日本語](README.ja.md)
+
 </div>
 
 ---
@@ -41,7 +43,7 @@
 - 🏫 **Sunrin Internet High School** — Dept. of Information Security (Mar 2018 – Feb 2021)
 - 👨‍🏫 Led **Python & Web study groups** at Dongguk University's CAPS programming club — authored and taught weekly course materials (Summer 2023 Python, Fall 2023 Web Basics, Winter 2024 Applied Python)
 - ⚽ I build **prediction systems for sports and markets**, then ship them as **web dashboards**
-- 🔭 Currently working on: a **2026 World Cup prediction system** benchmarking my own model against the betting market
+- 🔭 Currently working on: scoring my **2026 World Cup prediction system** against the market — closing odds for all 72 group-stage matches are collected, and the Brier-score verdict (my model vs. the betting market) is the next step
 
 ---
 
@@ -193,7 +195,7 @@ I build with **Claude Code** and **Cursor**. Every repository's README carries a
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choigod1023&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=choigod1023&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=choigod1023&theme=tokyonight&hide_border=true&disable_animations=true)
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choigod1023&theme=tokyonight)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=choigod1023&theme=tokyonight)
