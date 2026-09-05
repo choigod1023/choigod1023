@@ -30,7 +30,6 @@
 
 | Role | Organization | Period |
 |---|---|---|
-| **Coding Instructor** — Web · Game · AI/AX · Python development | **CIT Coding Academy** (CIT 코딩학원) — Daechi-dong, Seoul | Feb 2026 – Present |
 | **Security & Web Track Lead** (보안·웹 트랙장) | **Dongguk University — Farm System** | Mar 2026 – Present |
 | **Frontend Developer** — Website Management Team | **Dongguk University — CAPS** (Programming Club) | Mar 2023 – Present |
 
