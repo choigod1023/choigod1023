@@ -44,7 +44,7 @@
 - ⚽ I build **prediction systems for sports and markets**, then ship them as **web dashboards**
 - 🔭 Currently working on: [**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) — measuring whether Korea's Proto fixed-odds market is efficient (bookmaker margin, information lag, devig calibration), with scheduled data collection and success criteria pre-registered before the data is scored
 - 🧩 Also active: the *Re:Action* frontend (Hanium), demand-forecasting AI for TeamLex, and the summer security curriculum I teach at Dongguk's Farm System
-- 📋 Carried over: my **2026 World Cup** model-vs-market benchmark — closing odds for all 72 group-stage matches are collected; the Brier-score verdict is still pending
+- 📋 **2026 World Cup** model vs. market: an exploratory score of 72 matched group-stage games gives model 0.5336 vs. stored odds 0.4863 Brier (lower is better). The timing of the predictions and odds is unverified, so this is not a validated pre-match result.
 
 ---
 
@@ -62,6 +62,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**pitching-real2sim-lab**](https://github.com/choigod1023/pitching-real2sim-lab) | Pitching motion reconstruction and constrained simulation research, including negative results and validation limits | `Python` `OpenSim` |
+| [**ticketjam-dashboard**](https://github.com/choigod1023/ticketjam-dashboard) | NPB resale-ticket price tracking dashboard with historical charts | `JavaScript` `Node.js` |
 | [**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) | Is Korea's Proto fixed-odds market efficient? Measures bookmaker margin, information lag, and devig calibration — criteria pre-registered in `DESIGN.md` | `Python` |
 | [**wc2026-predictor**](https://github.com/choigod1023/wc2026-predictor) | 2026 World Cup prediction system — validates an Elo + logistic regression model's accuracy against betting-market odds | `Python` |
 | [**wc2026-web**](https://github.com/choigod1023/wc2026-web) | Web dashboard for the World Cup predictor: *my model vs. the betting market* | `TypeScript` `Next.js` |
@@ -83,7 +85,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**adventure_2026**](https://github.com/choigod1023/adventure_2026) | Pedestrian ("smombie") safety alert device on Arduino UNO R4 WiFi — bus/subway/C-ITS APIs + RCWL/SR505 sensors, 4 operating modes | `C++` `Arduino` |
-| [**wheelsafe**](https://github.com/choigod1023/wheelsafe) | 2023 Capstone Design Value-Up Competition project | `HTML` `Node.js` |
+| **wheelsafe** 🔒 | 2023 Capstone Design Value-Up Competition project | `HTML` `Node.js` |
 | [**electron_mirror_webapp**](https://github.com/choigod1023/electron_mirror_webapp) | Smart-mirror UI running on a Raspberry Pi | `JavaScript` `Electron` |
 
 ### ⚙️ Bots & Automation
@@ -92,7 +94,7 @@
 |---|---|---|
 | [**weekly_baekjoon**](https://github.com/choigod1023/weekly_baekjoon) | Posts 4 Baekjoon algorithm problems to Discord every week | `Python` |
 | [**american_stock_news_discord_bot**](https://github.com/choigod1023/american_stock_news_discord_bot) | Delivers U.S. stock news to Discord | `Python` |
-| [**upbit_autotrade**](https://github.com/choigod1023/upbit_autotrade) | Automated crypto trading on Upbit | `JavaScript` |
+| **upbit_autotrade** 🔒 | Automated crypto trading on Upbit | `JavaScript` |
 
 ---
 
@@ -141,7 +143,7 @@
 
 ## 🤖 AI-Assisted Development
 
-I build with **Claude Code** and **Cursor**. Every repository's README carries a `기여도 & 개발 환경` section stating its contribution split and which AI tooling was actually used — verified from commit trailers and in-repo agent configs rather than self-reported.
+I use **Claude Code** and **Cursor** where appropriate. Some project READMEs document contribution estimates and development tools; commit metadata and repository configuration are useful evidence but do not capture every contribution or tool interaction.
 
 ---
 

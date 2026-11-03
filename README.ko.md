@@ -45,7 +45,7 @@
 - ⚽ **스포츠·마켓 예측 시스템**을 만들고 **웹 대시보드**로 배포합니다
 - 🔭 현재 작업: [**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) — 한국 프로토(고정배당) 시장이 효율적인지 실측합니다. 배당 마진·정보 시차·devig 캘리브레이션을 자동 수집으로 쌓고, 판정 기준은 데이터를 보기 전에 사전등록합니다
 - 🧩 함께 진행 중: *Re:Action* 프론트엔드(한이음), TeamLex 수요예측 AI, 동국대 Farm System 여름 보안 커리큘럼 강의
-- 📋 이월된 작업: **2026 월드컵** 모델 vs 시장 검증 — 조별리그 72경기 마감배당은 모두 수집했고, Brier Score 판정은 아직 남아 있습니다
+- 📋 **2026 월드컵** 모델 vs 시장 검증: 저장소의 조별리그 72경기를 탐색적으로 채점한 Brier 점수는 모델 0.5336, 저장된 배당 0.4863입니다(낮을수록 좋음). 예측과 배당의 기록 시점이 검증되지 않아 경기 전 예측 성과로 확정할 수 없습니다.
 
 ---
 
@@ -63,6 +63,8 @@
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
+| [**pitching-real2sim-lab**](https://github.com/choigod1023/pitching-real2sim-lab) | 투구 동작 재구성 및 제약 조건 기반 시뮬레이션 연구 — 실패한 결과와 검증 한계도 기록 | `Python` `OpenSim` |
+| [**ticketjam-dashboard**](https://github.com/choigod1023/ticketjam-dashboard) | NPB 리세일 티켓 가격 추적 및 가격 이력 대시보드 | `JavaScript` `Node.js` |
 | [**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) | 한국 프로토(고정배당) 시장은 효율적인가 — 배당 마진·정보 시차·devig 캘리브레이션 실측 연구. 판정 기준은 `DESIGN.md`에 사전등록 | `Python` |
 | [**wc2026-predictor**](https://github.com/choigod1023/wc2026-predictor) | 2026 월드컵 예측 시스템 — Elo + 로지스틱 회귀 모델의 정확도를 베팅 시장 배당과 겨뤄 검증 | `Python` |
 | [**wc2026-web**](https://github.com/choigod1023/wc2026-web) | 월드컵 예측 웹 대시보드: *내 모델 vs 베팅 시장* | `TypeScript` `Next.js` |
@@ -84,7 +86,7 @@
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
 | [**adventure_2026**](https://github.com/choigod1023/adventure_2026) | Arduino UNO R4 WiFi 기반 스몸비 보행 안전 경보 장치 — 버스/지하철/C-ITS API + RCWL/SR505 센서, 4가지 동작 모드 | `C++` `Arduino` |
-| [**wheelsafe**](https://github.com/choigod1023/wheelsafe) | 2023 캡스톤디자인 밸류업 경진대회 프로젝트 | `HTML` `Node.js` |
+| **wheelsafe** 🔒 | 2023 캡스톤디자인 밸류업 경진대회 프로젝트 | `HTML` `Node.js` |
 | [**electron_mirror_webapp**](https://github.com/choigod1023/electron_mirror_webapp) | 라즈베리파이에서 동작하는 스마트 미러 UI | `JavaScript` `Electron` |
 
 ### ⚙️ 봇 & 자동화
@@ -93,7 +95,7 @@
 |---|---|---|
 | [**weekly_baekjoon**](https://github.com/choigod1023/weekly_baekjoon) | 매주 백준 알고리즘 문제 4개를 디스코드에 게시 | `Python` |
 | [**american_stock_news_discord_bot**](https://github.com/choigod1023/american_stock_news_discord_bot) | 미국 주식 뉴스를 디스코드로 전달 | `Python` |
-| [**upbit_autotrade**](https://github.com/choigod1023/upbit_autotrade) | 업비트 암호화폐 자동매매 | `JavaScript` |
+| **upbit_autotrade** 🔒 | 업비트 암호화폐 자동매매 | `JavaScript` |
 
 ---
 
@@ -142,7 +144,7 @@
 
 ## 🤖 AI 활용 개발
 
-**Claude Code**와 **Cursor**로 개발합니다. 모든 레포지토리의 README에는 `기여도 & 개발 환경` 섹션이 있어, 해당 프로젝트의 기여 분담과 실제로 사용한 AI 도구를 명시합니다 — 자가 신고가 아니라 커밋 트레일러와 레포 내 에이전트 설정으로 검증한 내용입니다.
+필요에 따라 **Claude Code**와 **Cursor**를 활용합니다. 일부 프로젝트 README에 기여도 추정과 개발 도구를 기록했습니다. 커밋 메타데이터와 저장소 설정은 참고 근거이지만 모든 기여와 도구 사용을 포착하지는 못합니다.
 
 ---
 
