@@ -48,7 +48,7 @@
 - ⚽ **スポーツ・マーケットの予測システム**を作り、**Web ダッシュボード**として公開しています
 - 🔭 現在の取り組み：[**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) — 韓国の Proto（프로토、韓国で唯一合法のスポーツ固定オッズくじ）市場が効率的かを実測する研究です。ブックメーカーマージン・情報ラグ・devig キャリブレーションを定期収集し、判定基準はデータを見る前に事前登録しています
 - 🧩 並行して進行中：*Re:Action* のフロントエンド（Hanium）、TeamLex の需要予測 AI、東国大学校 Farm System で担当する夏期セキュリティ講座
-- 📋 継続中の宿題：**2026 ワールドカップ**のモデル vs 市場の検証 — グループステージ 72 試合のクロージングオッズは収集済みで、Brier Score による判定はこれからです
+- 📋 **2026 ワールドカップ**のモデル vs 市場：リポジトリ内のグループステージ 72 試合を探索的に採点した Brier スコアはモデル 0.5336、保存されたオッズ 0.4863 です（低いほど良い）。予測とオッズの記録時点は未検証のため、試合前の予測成績として確定できません。
 
 ---
 
@@ -66,6 +66,8 @@
 
 | プロジェクト | 概要 | 技術 |
 |---|---|---|
+| [**pitching-real2sim-lab**](https://github.com/choigod1023/pitching-real2sim-lab) | 投球動作の再構成と制約付きシミュレーションの研究。失敗した結果や検証上の限界も記録 | `Python` `OpenSim` |
+| [**ticketjam-dashboard**](https://github.com/choigod1023/ticketjam-dashboard) | NPB リセールチケットの価格追跡と履歴表示のダッシュボード | `JavaScript` `Node.js` |
 | [**proto-odds-research**](https://github.com/choigod1023/proto-odds-research) | 韓国の Proto（固定オッズくじ）市場は効率的か — マージン・情報ラグ・devig キャリブレーションの実測研究。判定基準は `DESIGN.md` に事前登録 | `Python` |
 | [**wc2026-predictor**](https://github.com/choigod1023/wc2026-predictor) | 2026 ワールドカップ予測システム — Elo + ロジスティック回帰モデルの精度をブックメーカーのオッズと比較検証 | `Python` |
 | [**wc2026-web**](https://github.com/choigod1023/wc2026-web) | ワールドカップ予測の Web ダッシュボード：*自作モデル vs ブックメーカー市場* | `TypeScript` `Next.js` |
@@ -87,7 +89,7 @@
 | プロジェクト | 概要 | 技術 |
 |---|---|---|
 | [**adventure_2026**](https://github.com/choigod1023/adventure_2026) | Arduino UNO R4 WiFi による歩きスマホ（スモンビ）安全警告デバイス — バス/地下鉄/C-ITS API + RCWL/SR505 センサー、4 つの動作モード | `C++` `Arduino` |
-| [**wheelsafe**](https://github.com/choigod1023/wheelsafe) | 2023 年 東国大学校 キャップストーンデザイン バリューアップ大会（韓国）の出展プロジェクト | `HTML` `Node.js` |
+| **wheelsafe** 🔒 | 2023 年 東国大学校 キャップストーンデザイン バリューアップ大会（韓国）の出展プロジェクト | `HTML` `Node.js` |
 | [**electron_mirror_webapp**](https://github.com/choigod1023/electron_mirror_webapp) | Raspberry Pi 上で動作するスマートミラー UI | `JavaScript` `Electron` |
 
 ### ⚙️ Bot & 自動化
@@ -96,7 +98,7 @@
 |---|---|---|
 | [**weekly_baekjoon**](https://github.com/choigod1023/weekly_baekjoon) | 毎週 Baekjoon のアルゴリズム問題 4 問を Discord に投稿 | `Python` |
 | [**american_stock_news_discord_bot**](https://github.com/choigod1023/american_stock_news_discord_bot) | 米国株のニュースを Discord に配信 | `Python` |
-| [**upbit_autotrade**](https://github.com/choigod1023/upbit_autotrade) | Upbit での暗号資産自動取引 | `JavaScript` |
+| **upbit_autotrade** 🔒 | Upbit での暗号資産自動取引 | `JavaScript` |
 
 ---
 
@@ -147,7 +149,7 @@
 
 ## 🤖 AI を活用した開発
 
-**Claude Code** と **Cursor** を使って開発しています。各リポジトリの README には `기여도 & 개발 환경`（貢献度と開発環境）セクションがあり、そのプロジェクトの貢献分担と実際に使用した AI ツールを明記しています — 自己申告ではなく、コミットトレーラーとリポジトリ内のエージェント設定から検証した内容です。
+必要に応じて **Claude Code** と **Cursor** を活用しています。一部のプロジェクトの README に貢献度の推定と開発ツールを記載しています。コミットのメタデータやリポジトリの設定は参考になりますが、すべての貢献やツールの利用を網羅するものではありません。
 
 ---
 
